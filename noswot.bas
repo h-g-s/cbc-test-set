@@ -1,0 +1,30 @@
+NAME          noswot       FREEIEEE
+ XU x3             c1     000000000000
+ XU x5             c6     D+3BX93g1PR4
+ XU x8             c8     000000000000
+ XU x48            c10     000000000000
+ UL x51      _dummy_     M+3000000000
+ XU x52            c12     z04Pc3v241O2
+ UL x53      _dummy_     M+3000000000
+ XU x54            c14     z04Pc3v241O2
+ UL x55      _dummy_     M+3000000000
+ XL x56            c19     z04Pc3v241O2
+ XL x57            c21     K+3GGau85nzc
+ XL x58            c25     y04Cp6yU3VF7
+ XL x60            c29     000000000000
+ XL x64            c31     000000000000
+ XL x66            c33     000000000000
+ XL x69            c35     J+3iccuZ7Lj8
+ XL x70            c37     k04000000000
+ XL x74            c49     000000000000
+ XL x76            c51     000000000000
+ XU x78            c60     000000000000
+ XU x80            c62     000000000000
+ XL x82            c77     000000000000
+ XL x92            c103     000000000000
+ XL x94            c156     000000000000
+ XL x96            c158     000000000000
+ XL x98            c160     000000000000
+ XL x100           c162     000000000000
+ XL x102           c164     000000000000
+ENDATA

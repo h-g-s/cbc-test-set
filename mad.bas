@@ -1,0 +1,31 @@
+NAME          mad       FREEIEEE
+ XL X6             F1     L+3++f++f++f
+ XL X7             F2     U*30n49D4yec
+ XL X19            F3     M+3000000000
+ XL X20            F4     M+3000000000
+ XL X21            F5     M+3000000000
+ XL X28            F6     M+3000000000
+ XL X37            F7     M+3000000000
+ XL X38            F8     w+3u6caQ76*1
+ XL X49            F9     L+3++f++f++f
+ XL X50            F10     k+3iGbVQfPk3
+ XL X53            F11     M+3000000000
+ XL X70            F12     u+3rW9KMdOT0
+ XL X84            F13     M+3000000000
+ XL X98            F14     s+3Qu0GQePq0
+ XL X105           F15     M+3000000000
+ XL X107           F16     D+3cn9fs1BQ0
+ XL X127           F17     n*3+E4A2eXH3
+ XL X134           F18     L+3++f++f++f
+ XL X135           F19     L+3++f++f++f
+ XL X136           F20     L+3++f++f++f
+ XL X143           F42     M+3000000000
+ XL X147           F43     2+3DO9ab8X86
+ XL X150           F44     9+3yS4NQ4UC7
+ XL X151           F45     k+3ee4DJcJpe
+ XL X158           F46     z*3Mxadocb8d
+ XL X171           F47     c+3L632xbYS7
+ XL X172           F48     M+3000000000
+ XL X182           F49     M+3000000000
+ XL X191           F50     t+3peaSx5SGd
+ENDATA

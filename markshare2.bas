@@ -1,0 +1,31 @@
+NAME          markshare2       FREEIEEE
+ UL x16      _dummy_     M+3000000000
+ UL x17      _dummy_     M+3000000000
+ UL x21      _dummy_     M+3000000000
+ UL x23      _dummy_     M+3000000000
+ XL x26            c1     J+3W209dbtxd
+ XL x27            c2     K+3L4cfQ9aS5
+ UL x28      _dummy_     M+3000000000
+ UL x30      _dummy_     M+3000000000
+ UL x31      _dummy_     M+3000000000
+ UL x34      _dummy_     M+3000000000
+ UL x35      _dummy_     M+3000000000
+ UL x38      _dummy_     M+3000000000
+ UL x44      _dummy_     M+3000000000
+ UL x53      _dummy_     M+3000000000
+ XL x54            c3     J+3DY1SUd7Y9
+ XL x56            c4     K+3L23YmdAy1
+ XL x58            c5     I+3ITdowfCB1
+ UL x59      _dummy_     M+3000000000
+ XL x60            c6     H+3uU8Fh84*1
+ UL x63      _dummy_     M+3000000000
+ UL x64      _dummy_     M+3000000000
+ UL x65      _dummy_     M+3000000000
+ UL x66      _dummy_     M+3000000000
+ UL x67      _dummy_     M+3000000000
+ XL x68            c7     L+3tefJP7DWb
+ UL x69      _dummy_     M+3000000000
+ UL x70      _dummy_     L+3++f++f++f
+ UL x71      _dummy_     M+3000000000
+ UL x72      _dummy_     M+3000000000
+ENDATA

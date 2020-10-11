@@ -1,0 +1,34 @@
+NAME          neos-5140963-mincio       FREEIEEE
+ XL C0002          R0003     M+3000000500
+ XL C0013          R0004     000000000000
+ XL C0015          R0005     M+3000000000
+ XL C0028          R0006     M+3000000000
+ XL C0042          R0007     000000000000
+ XL C0043          R0008     H+3SS6JJdqrb
+ XL C0051          R0009     O*3AA4999oi2
+ XL C0052          R0010     O*3AA4999oi2
+ XL C0056          R0011     M+3000000000
+ XL C0064          R0012     000000000000
+ XL C0071          R0013     J+3rrbSS6JJd
+ XL C0072          R0014     O*3AA4999oi2
+ XL C0084          R0015     O*3AA4999oi2
+ XL C0085          R0016     J+3rrbSS6JJd
+ XL C0097          R0017     J+3rrbSS6JJd
+ XL C0098          R0018     O*3AA4999oi2
+ XL C0099          R0019     000000000000
+ XL C0113          R0020     H+3SS6JJdqrb
+ XL C0114          R0021     O*3AA4999oi2
+ XL C0118          R0022     O*3AA4999oi2
+ XL C0126          R0023     O*3AA4999oi2
+ XL C0127          R0024     J+3rrbSS6JJd
+ XL C0139          R0025     H+3SS6JJdqrb
+ XL C0140          R0026     2+3AA4999oi2
+ XL C0156          R0027     O*3AA4999oi2
+ XL C0157          R0028     J+3rrbSS6JJd
+ XU C0161          R0042     2+3AA4999oi2
+ XU C0169          R0054     H+3SS6JJdqrb
+ XU C0181          R0092     O*3AA4999oi2
+ XU C0182          R0120     J+3rrbSS6JJd
+ XU C0191          R0148     O*3AA4999oi2
+ XU C0194          R0182     J+3rrbSS6JJd
+ENDATA

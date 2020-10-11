@@ -1,0 +1,29 @@
+NAME          n3div36       FREEIEEE
+ XL x#AsdZvg;;U18       capacity1     d+3Ep2iBanVe
+ XL x#new0_6_I76;;U18       capacity2     000000000000
+ XL x#new1_7_I403;;U9       capacity4     W*3BjeklfVf3
+ XL x#new1_8_I445;;U9       capacity7     Z*3w50ywcJjc
+ XL x#new2_13_I1073;;U3       capacity9     000000000000
+ XL x#new3_13_I1552;;U3       capacity11     l+3ll5ll59l5
+ XL x#new3_14_I1584;;U9       capacity13     8+3pHbmt9bQa
+ XL x#new3_16_I1658;;U9       capacity14     3+3Gu0YDe+B8
+ XL x#new3_16_I1670;;U9       capacity17     S*3i73gI6GV6
+ XL x#new3_18_I1752;;U18       capacity18     B+3sf7*VcRUf
+ XL x#new3_22_I1797;;U18       capacity20     l+36x12c6me0
+ XL x#new5_14_I2087;;U9       capacity24     1+3h41h41741
+ XL x#new6_22_I2439;;U18       capacity26     s+3000000400
+ XL x#new7_12_I2567;;U9       capacity29     0*3mfeQp9Ix8
+ XL x#new7_14_I2574;;U9       capacity31     7+3yg0Ex5LX4
+ XL x#new7_16_I2683;;U9       capacity33     0+3T58wl6zc1
+ XL x#new7_16_I2690;;U9       capacity35     b+34teOj00m6
+ XL x#new7_16_I2691;;U9       capacity37     n+3UA0pOeXHe
+ XL x#new8_12_I2883;;U9       capacity39     H*3ja5fkcLJc
+ XL x#new9_12_I3210;;U9       capacity41     Y*3777NN1lsc
+ XL x#new12_14_I3524;;U9       capacity42     k+3EBc1E6CZ0
+ XL x#new13_15_I3788;;U3       capacity48     H+3Ey0T53pof
+ XL x#new13_15_I3807;;U3       capacity50     3+3vRdwE3xu2
+ XL x#new14_15_I4011;;U3       capacity52     000000000000
+ XL x#new14_16_I4026;;U9       capacity55     2+3DQ7Z9dDv2
+ XL x#new14_16_I4039;;U9       capacity57     o*3i+f5mc*96
+ XL x#new18_22_I4413;;U18       capacity59     RZ3i52xk1IX4
+ENDATA

@@ -1,0 +1,30 @@
+NAME          ns1766074       FREEIEEE
+ XL X0_1           c1     I+3cPccPcdPc
+ XL X0_4           c2     000000000000
+ XL X0_7           c3     V*3pC9pC9oC9
+ XL X1_0           c4     I+3cPccPcdPc
+ XL X1_4           c5     000000000000
+ XL X1_5           c6     V*3pC9pC9oC9
+ XL X2_6           c7     I+3cPccPcdPc
+ XL X2_9           c8     V*3pC9pC9oC9
+ XL X3_2           c9     000000000000
+ XL X3_6           c10     V*3pC9pC9oC9
+ XL X3_9           c11     I+3cPccPcdPc
+ XL X4_1           c12     000000000000
+ XL X4_5           c14     I+3cPccPcdPc
+ XL X4_8           c15     V*3pC9pC9oC9
+ XL X5_1           c16     V*3pC9pC9oC9
+ XL X5_4           c17     I+3cPccPcdPc
+ XL X5_6           c18     000000000000
+ XL X6_2           c19     I+3cPccPcdPc
+ XL X6_3           c20     V*3pC9pC9oC9
+ XU X6_5           c21     000000000000
+ XU X7_0           c30     V*3pC9pC9oC9
+ XU X7_8           c61     I+3cPccPcdPc
+ XU X8_4           c123     V*3pC9pC9oC9
+ XU X8_7           c134     I+3cPccPcdPc
+ XU X9_2           c146     V*3pC9pC9oC9
+ XU X9_3           c152     I+3cPccPcdPc
+ XU U1             c165     000000000000
+ XU U3             c173     000000000000
+ENDATA
